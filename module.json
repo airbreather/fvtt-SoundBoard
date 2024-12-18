@@ -3,7 +3,7 @@
   "name": "SoundBoard",
   "title": "SoundBoard by Blitz",
   "description": "Simple soundboard for the Gamemaster, broadcasted to all connected clients",
-  "version": "1.7.1",
+  "version": "2.0.0",
   "author": "Blitzkraig",
   "scripts": [
     "./soundboard.js",
@@ -49,14 +49,14 @@
     "minimum": 12,
     "verified": "12"
   },
-  "url": "https://github.com/BlitzKraig/fvtt-SoundBoard",
-  "manifest": "https://raw.githubusercontent.com/BlitzKraig/fvtt-SoundBoard/master/module.json",
-  "download": "https://github.com/BlitzKraig/fvtt-SoundBoard/releases/download/latest/soundboard-release.zip",
+  "url": "https://github.com/airbreather/fvtt-SoundBoard",
+  "manifest": "https://raw.githubusercontent.com/airbreather/fvtt-SoundBoard/refs/heads/fix-loop-stop/module.json",
+  "download": "https://github.com/airbreather/fvtt-SoundBoard/archive/refs/heads/fix-loop-stop.zip",
   "manifestPlusVersion": "1.0.0",
   "media": [{
     "type": "cover",
-    "url": "https://raw.githubusercontent.com/BlitzKraig/fvtt-SoundBoard/master/docs/cover.png"
+    "url": "https://raw.githubusercontent.com/airbreather/fvtt-SoundBoard/refs/heads/fix-loop-stop/docs/cover.png"
   }],
   "allowBugReporter": true,
-  "bugs": "https://github.com/BlitzKraig/fvtt-SoundBoard/issues"
+  "bugs": "https://github.com/airbreather/fvtt-SoundBoard/issues"
 }
